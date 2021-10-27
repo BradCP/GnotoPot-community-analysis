@@ -1,0 +1,66 @@
+sample-id	GnotoPot-community	SynCom-prep	cryoprotectant	thaw	replicate	treatment	DNA-extraction-batch
+endo-SC-fresh-1	SynCom	1x	fresh		1	SynCom-fresh	1
+endo-SC-fresh-2	SynCom	1x	fresh		2	SynCom-fresh	1
+endo-SC-fresh-3	SynCom	1x	fresh		3	SynCom-fresh	1
+endo-SC-fresh-4	SynCom	1x	fresh		4	SynCom-fresh	1
+endo-SC-fresh-5	SynCom	1x	fresh		5	SynCom-fresh	1
+endo-SC-gly-ice-1	SynCom	1x	glycerol	ice	1	SynCom-glycerol-ice	1
+endo-SC-gly-ice-2	SynCom	1x	glycerol	ice	2	SynCom-glycerol-ice	1
+endo-SC-gly-ice-3	SynCom	1x	glycerol	ice	3	SynCom-glycerol-ice	1
+endo-SC-gly-ice-4	SynCom	1x	glycerol	ice	4	SynCom-glycerol-ice	1
+endo-SC-gly-ice-5	SynCom	1x	glycerol	ice	5	SynCom-glycerol-ice	1
+endo-SC-gly-37C-1	SynCom	1x	glycerol	37C	1	SynCom-glycerol-37C	1
+endo-SC-gly-37C-2	SynCom	1x	glycerol	37C	2	SynCom-glycerol-37C	1
+endo-SC-gly-37C-3	SynCom	1x	glycerol	37C	3	SynCom-glycerol-37C	1
+endo-SC-gly-37C-4	SynCom	1x	glycerol	37C	4	SynCom-glycerol-37C	1
+endo-SC-gly-37C-5	SynCom	1x	glycerol	37C	5	SynCom-glycerol-37C	1
+endo-SC-DMSO-ice-1	SynCom	1x	DMSO	ice	1	SynCom-DMSO-ice	1
+endo-SC-DMSO-ice-2	SynCom	1x	DMSO	ice	2	SynCom-DMSO-ice	1
+endo-SC-DMSO-ice-3	SynCom	1x	DMSO	ice	3	SynCom-DMSO-ice	1
+endo-SC-DMSO-ice-4	SynCom	1x	DMSO	ice	4	SynCom-DMSO-ice	1
+endo-SC-DMSO-ice-5	SynCom	1x	DMSO	ice	5	SynCom-DMSO-ice	1
+endo-SC-DMSO-37C-1	SynCom	1x	DMSO	37C	1	SynCom-DMSO-37C	1
+endo-SC-DMSO-37C-2	SynCom	1x	DMSO	37C	2	SynCom-DMSO-37C	1
+endo-SC-DMSO-37C-3	SynCom	1x	DMSO	37C	3	SynCom-DMSO-37C	1
+endo-SC-DMSO-37C-4	SynCom	1x	DMSO	37C	4	SynCom-DMSO-37C	1
+endo-SC-DMSO-37C-5	SynCom	1x	DMSO	37C	5	SynCom-DMSO-37C	3
+endo-SC-fresh-6	SynCom	5x	fresh		6	SynCom-fresh	2
+endo-SC-fresh-7	SynCom	5x	fresh		7	SynCom-fresh	2
+endo-SC-fresh-8	SynCom	5x	fresh		8	SynCom-fresh	2
+endo-SC-fresh-9	SynCom	5x	fresh		9	SynCom-fresh	2
+endo-SC-fresh-10	SynCom	5x	fresh		10	SynCom-fresh	2
+endo-SC-gly-ice-6	SynCom	5x	glycerol	ice	6	SynCom-glycerol-ice	2
+endo-SC-gly-ice-7	SynCom	5x	glycerol	ice	7	SynCom-glycerol-ice	2
+endo-SC-gly-ice-8	SynCom	5x	glycerol	ice	8	SynCom-glycerol-ice	2
+endo-SC-gly-ice-9	SynCom	5x	glycerol	ice	9	SynCom-glycerol-ice	2
+endo-SC-gly-ice-10	SynCom	5x	glycerol	ice	10	SynCom-glycerol-ice	2
+endo-SC-gly-37C-6	SynCom	5x	glycerol	37C	6	SynCom-glycerol-37C	2
+endo-SC-gly-37C-7	SynCom	5x	glycerol	37C	7	SynCom-glycerol-37C	2
+endo-SC-gly-37C-8	SynCom	5x	glycerol	37C	8	SynCom-glycerol-37C	2
+endo-SC-gly-37C-9	SynCom	5x	glycerol	37C	9	SynCom-glycerol-37C	2
+endo-SC-gly-37C-10	SynCom	5x	glycerol	37C	10	SynCom-glycerol-37C	2
+endo-SC-DMSO-ice-6	SynCom	5x	DMSO	ice	6	SynCom-DMSO-ice	2
+endo-SC-DMSO-ice-7	SynCom	5x	DMSO	ice	7	SynCom-DMSO-ice	2
+endo-SC-DMSO-ice-8	SynCom	5x	DMSO	ice	8	SynCom-DMSO-ice	2
+endo-SC-DMSO-ice-9	SynCom	5x	DMSO	ice	9	SynCom-DMSO-ice	2
+endo-SC-DMSO-ice-10	SynCom	5x	DMSO	ice	10	SynCom-DMSO-ice	2
+endo-SC-DMSO-37C-6	SynCom	5x	DMSO	37C	6	SynCom-DMSO-37C	2
+endo-SC-DMSO-37C-7	SynCom	5x	DMSO	37C	7	SynCom-DMSO-37C	2
+endo-SC-DMSO-37C-8	SynCom	5x	DMSO	37C	8	SynCom-DMSO-37C	2
+endo-SC-DMSO-37C-9	SynCom	5x	DMSO	37C	9	SynCom-DMSO-37C	2
+endo-SC-DMSO-37C-10	SynCom	5x	DMSO	37C	10	SynCom-DMSO-37C	3
+endo-MSU19-1	MSU19				1	MSU19	3
+endo-MSU19-2	MSU19				2	MSU19	3
+endo-MSU19-3	MSU19				3	MSU19	3
+endo-MSU19-4	MSU19				4	MSU19	3
+endo-MSU19-5	MSU19				5	MSU19	3
+input-SC-1	input-SynCom	1x			1	input-SynCom	3
+input-SC-2	input-SynCom	1x			2	input-SynCom	3
+input-SC-3	input-SynCom	1x			3	input-SynCom	3
+input-SC-4	input-SynCom	5x			4	input-SynCom	3
+input-SC-5	input-SynCom	5x			5	input-SynCom	3
+input-SC-6	input-SynCom	5x			6	input-SynCom	3
+input-MSU19-1	input-MSU19				1	input-MSU19	3
+input-MSU19-2	input-MSU19				2	input-MSU19	3
+input-MSU19-3	input-MSU19				3	input-MSU19	3
+RTSF_NTC						RTSF_NTC	
